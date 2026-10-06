@@ -1,0 +1,16 @@
+{
+  "name": "夜声 Sleep Sounds",
+  "short_name": "夜声",
+  "description": "睡觉时自动录下打鼾与梦话，早上给你睡眠质量报告。Records snoring & sleep talk, then scores your sleep.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FAF7F0",
+  "theme_color": "#FAF7F0",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
